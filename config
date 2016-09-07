@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "vp"]
+	url = https://github.com/vpanagiot/tensorflow
+	fetch = +refs/heads/*:refs/remotes/vp/*
